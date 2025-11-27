@@ -40,7 +40,4 @@ The `app.py` script combines these two datasets and splits them into a training 
 
 The project uses a Multinomial Naive Bayes (MultinomialNB) classifier from the scikit-learn library. The text data is converted into a matrix of TF-IDF features before being fed into the model. The model achieves an accuracy of over 90% on the test set.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request.
 
